@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55f1609b-0aa3-463f-8b55-d5757f639a46" name="Default Changelist" comment="" />
+    <list default="true" id="6871c9ab-3d3f-4ad9-a537-b3ec725b693c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Avançando com PHP - Arrays, Strings, Função e Web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banco.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foreach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introdução ao PHP - Primeiros passos com a linguagem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Introdução ao PHP - Primeiros passos com a linguagem/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1h3DQMaWYXU7QrF6EDazkuzLK2X" />
+  <component name="ProjectId" id="1hEEedlOZd87Pjkz9qYzVZm6lR5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,31 +50,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Avançando com PHP - Arrays, Strings, Função e Web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Git\cursos\Alura\Introdução ao PHP - Primeiros passos com a linguagem\Desafios" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55f1609b-0aa3-463f-8b55-d5757f639a46" name="Default Changelist" comment="" />
-      <created>1599230871484</created>
+      <changelist id="6871c9ab-3d3f-4ad9-a537-b3ec725b693c" name="Default Changelist" comment="" />
+      <created>1599567948160</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599230871484</updated>
-      <workItem from="1599230872973" duration="9568000" />
-      <workItem from="1599567582452" duration="360000" />
+      <updated>1599567948160</updated>
+      <workItem from="1599567949262" duration="1994000" />
     </task>
     <servers />
   </component>
@@ -83,24 +84,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="120" y="135" key="FileChooserDialogImpl" timestamp="1599567944050">
+    <state x="175" y="304" key="NewPhpFileDialog" timestamp="1599569786684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="120" y="135" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599567944050" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1599249333470">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599249333470" />
-    <state x="246" y="17" key="SettingsEditor" timestamp="1599231190487">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="246" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599231190487" />
-    <state x="11" y="49" key="search.everywhere.popup" timestamp="1599231392510">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="11" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599231392510" />
+    <state x="175" y="304" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599569786684" />
   </component>
 </project>
