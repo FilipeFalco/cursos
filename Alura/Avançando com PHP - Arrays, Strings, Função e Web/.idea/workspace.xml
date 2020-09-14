@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6871c9ab-3d3f-4ad9-a537-b3ec725b693c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Avançando com PHP - Arrays, Strings, Função e Web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/banco.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreach.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Introdução ao PHP - Primeiros passos com a linguagem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Introdução ao PHP - Primeiros passos com a linguagem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco.php" beforeDir="false" afterPath="$PROJECT_DIR$/banco.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599567948160</updated>
-      <workItem from="1599567949262" duration="1994000" />
+      <workItem from="1599567949262" duration="2595000" />
+      <workItem from="1600088313809" duration="3547000" />
     </task>
     <servers />
   </component>
@@ -84,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="175" y="304" key="NewPhpFileDialog" timestamp="1599569786684">
